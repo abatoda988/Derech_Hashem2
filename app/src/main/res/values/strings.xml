@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">דרך השם</string>
+    <string name="app_subtitle">מערכת סינון והגנה</string>
+    <string name="protected_status">🛡️ המכשיר מוגן</string>
+    <string name="more_options">אפשרויות נוספות</string>
+    <string name="accessibility_service_description">שירות ההגנה של דרך השם</string>
+    <string name="device_admin_description">הרשאת מנהל מערכת של דרך השם</string>
+    <string name="blocked_title">הפעולה חסומה</string>
+    <string name="blocked_message">המכשיר מוגן על ידי מערכת סינון דרך השם.</string>
+    <string name="back_button">חזור</string>
+    <string name="footer">דרך השם • מערכת סינון והגנה</string>
+</resources>
